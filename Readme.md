@@ -19,6 +19,10 @@ Recursividade é uma técnica de programação em que uma função chama a si me
 Listas encadeadas são estruturas de dados lineares compostas por elementos chamados nós. Cada nó contém um valor e um ponteiro/referência para o próximo nó da lista. Essa estrutura permite a alocação dinâmica de memória e é ideal para armazenar e manipular conjuntos de dados de tamanho variável. As listas encadeadas têm vantagens sobre as listas estáticas tradicionais, pois permitem inserções e remoções de elementos de forma eficiente, mas também exigem mais memória devido aos ponteiros adicionais. Elas são amplamente utilizadas em linguagens de programação que não oferecem listas nativas ou arrays dinâmicos, permitindo a criação de estruturas de dados flexíveis e eficientes.
 
 <br>
+
+Abra esse repositório na sua máquina com: 
+```git clone https://github.com/Kauandugi/Implementacoes-algoritmos/```
+
 <br>
 
 <a href = "mailto:dev.kauanhenrick@gmail.com" >Entre em contato</a>
