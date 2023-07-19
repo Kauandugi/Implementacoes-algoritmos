@@ -1,9 +1,7 @@
-# Olá e obrigado por vir até aqui!
+# Olá e obrigado por vir até aqui! 👋
 <br>
 
-## Este repositório se trata de algumas implementações em linguagem C feitas para trabalhos da faculdade e também para fins de estudo. A escolha da linguagem C se deve ao fato de ser uma linguagem de programação amplamente utilizada no meio acadêmico<br>
-
-Além disso, estou chegando a metade do livro **Entendendo Algoritmos**, logo algumas ideias de implementações de algoritmos partiram deste livro
+### Este repositório se trata de algumas implementações em linguagem C feitas para trabalhos da faculdade e também para fins de estudo. A escolha da linguagem C se deve ao fato de ser uma linguagem de programação amplamente utilizada no meio acadêmico. Além disso, estou chegando a metade do livro *Entendendo Algoritmos*, logo algumas ideias de implementações de algoritmos partiram deste livro.
 <br>
 
 ## Segue algumas breves explicações sobre os algoritmos implementados nesse repositório:
@@ -22,6 +20,7 @@ Listas encadeadas são estruturas de dados lineares compostas por elementos cham
 
 <br>
 <br>
-<br>
 
-<a href="mailto:dev.kauanhenrick@gmail.com" ><p>Entre em contato</p></a>
+<a href = "mailto:dev.kauanhenrick@gmail.com" >Entre em contato</a>
+<br>
+<br>
